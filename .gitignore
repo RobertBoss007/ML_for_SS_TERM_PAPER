@@ -5,6 +5,7 @@ localpyenv/
 # Ignore Python cache files
 __pycache__/
 *.pyc
+*.csv
 
 # VS Code settings (optional)
 .vscode/
